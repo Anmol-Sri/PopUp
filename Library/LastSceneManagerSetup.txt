@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GoogleMobileAds/menu.unity
+  isLoaded: 1
+  isActive: 1
