@@ -14,6 +14,6 @@ skills and Blender and Photoshop.
 
 ## ScreenShots : 
 ![Alt Text](/Screenshots/1.png)
-![Alt Text](/Screenshots/2.j[g)
+![Alt Text](/Screenshots/2.jpg)
 ![Alt Text](/Screenshots/3.jpg)
 ![Alt Text](/Screenshots/4.png)
